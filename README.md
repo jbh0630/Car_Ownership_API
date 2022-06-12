@@ -1,4 +1,4 @@
-##Instructions
+## Instructions
 
 1. Git clone the repo
 ```
@@ -23,5 +23,5 @@ $ rails s
 6. API will run on http://localhost:3000
 7.  Routes on http://localhost:3000/api/v1/
 
-##Frontend
+## Frontend
 Git clone React Client repo for frontend. https://github.com/jbh0630/Car_Ownership_Client
