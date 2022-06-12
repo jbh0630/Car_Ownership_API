@@ -1,0 +1,8 @@
+I, [2022-06-08T00:47:14.128344 #10289]  INFO -- : [593c8ebf-d36f-422a-b920-ae39b9dd7f71] Started GET "/" for 127.0.0.1 at 2022-06-08 00:47:14 -0700
+F, [2022-06-08T00:47:14.129093 #10289] FATAL -- : [593c8ebf-d36f-422a-b920-ae39b9dd7f71]   
+[593c8ebf-d36f-422a-b920-ae39b9dd7f71] ActionController::RoutingError (No route matches [GET] "/"):
+[593c8ebf-d36f-422a-b920-ae39b9dd7f71]   
+I, [2022-06-08T00:47:14.223921 #10289]  INFO -- : [b4f63213-c78a-466e-93dc-eab3d0583458] Started GET "/favicon.ico" for 127.0.0.1 at 2022-06-08 00:47:14 -0700
+F, [2022-06-08T00:47:14.224256 #10289] FATAL -- : [b4f63213-c78a-466e-93dc-eab3d0583458]   
+[b4f63213-c78a-466e-93dc-eab3d0583458] ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+[b4f63213-c78a-466e-93dc-eab3d0583458]   
